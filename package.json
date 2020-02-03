@@ -1,0 +1,27 @@
+{
+  "name": "demoapi",
+  "version": "1.0.0",
+  "description": "A basic GET api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Siddharth Alex",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.4.0",
+    "hapi": "^16.7.0"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Siddharth-cell-beep/Demo_Project.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Siddharth-cell-beep/Demo_Project/issues"
+  },
+  "homepage": "https://github.com/Siddharth-cell-beep/Demo_Project#readme"
+}
