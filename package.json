@@ -9,7 +9,7 @@
   "author": "Siddharth Alex",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^18.4.0",
+    "@hapi/hapi": "^19.1.1",
     "hapi": "^16.7.0"
   },
   "directories": {
